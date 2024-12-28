@@ -8,5 +8,5 @@ public class PracticeDataTypes {
     {
         System.out.println("hi siva");
     }
-int b=2;
+int a=15;
 }
